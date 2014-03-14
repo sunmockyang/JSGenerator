@@ -1,7 +1,7 @@
 JSGenerator
 ===========
 
-A JavaScript generator written in C++. Originally created as part of a larger project to create an in-browser image viewer.
+A JavaScript generator written in C++. Originally written in C# and created as part of a larger project to create an in-browser image viewer.
 
 Compiling the program and running main will output default.js.
 
